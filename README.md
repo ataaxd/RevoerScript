@@ -5,11 +5,11 @@
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ataaxd/main/Revoer/install.sh && chmod +x install.sh && ./install.sh
+<pre><code>apt install -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ataaxd/RevoerScript/main/install.sh && chmod +x install.sh && ./install.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/ataaxd/main/Revoer/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/ataaxd/RevoerScript/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
