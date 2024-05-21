@@ -1,0 +1,5 @@
+REPO="https://raw.githubusercontent.com/ataaxd/RevoerScript/main"
+
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}limit/rclone.conf"
